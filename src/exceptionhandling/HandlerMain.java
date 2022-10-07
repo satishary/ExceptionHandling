@@ -4,7 +4,7 @@ public class HandlerMain {
 
     public static void main(String[] args) {
         try {
-            int n = 70;
+            int n = 50;
             n = 1 / n;
             int[] a = {78};
             a[0] = 9;
